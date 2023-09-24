@@ -1,2 +1,2 @@
 Denem3.txt is opened and writed.
-Kaido : Raimi hakke
+Kaido : Raimi hakkegit
